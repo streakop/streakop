@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @streakop
 - 👀 I’m interested in SOFTWARE DEVELPMENT, SPACE, PHYSICS.
-- 🌱 I’m currently learning PYTHON, DSA
+- 🌱 I’m currently learning PYTHON, C#
 - 💞️ I’m looking to collaborate on LEARNING ABOUT SOFTWARES, ELECTRIC CIRCUITS, SPACE.
 - 📫 How to reach me INSTAGRAM-
 - 😄 Pronouns:NONE(I DON'T BELIEVE IN PRONOUNS, I'M A MALE HOMOSAPIEN THAT'S ALL)
