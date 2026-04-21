@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @streakop
+- 👋 Hi, I’m Satyam
 - 👀 I’m interested in SOFTWARE DEVELPMENT, SPACE, PHYSICS.
-- 🌱 I’m currently working on my WEB DEV project, shall be commiting codes later.
+- 🌱 I’m currently working on personal projects related to AI and Python along with learning DSA .
 - 💞️ I’m looking to collaborate on LEARNING ABOUT SOFTWARES.
-- ⚡ Fun fact: I AM NEW TO EVERYTHING AND I AM REALLY EAGER TO WORK AND LEARN. I AM LAZY TOO 😅
+- ⚡ Fun fact: I AM NEW TO EVERYTHING AND I AM REALLY EAGER TO WORK AND LEARN.
 
 <!---
 streakop/streakop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
